@@ -20,3 +20,11 @@ This repository contains Vanilla JS projects.
 ![Clock](https://user-images.githubusercontent.com/22683645/31928818-81976e48-b8d4-11e7-9b4c-4628a898731b.png)
 ![calculator](https://user-images.githubusercontent.com/25202996/32331102-0a8176f6-c008-11e7-9c79-5b7f74019e43.png)
 ![butterfly](https://user-images.githubusercontent.com/25202996/32331100-08d98456-c008-11e7-9c75-549dee6c8a05.png)
+
+# Authors
+
+* **Bhavesh Kalra** - (https://github.com/bhaveshkalras)
+
+See also the list of [contributors](https://github.com/bhaveshkalra/Javascript_projects/graphs/contributors) who participated in this project.
+
+# License
